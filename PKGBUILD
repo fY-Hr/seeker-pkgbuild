@@ -31,7 +31,7 @@ build() {
 
   export CARGO_TARGET_DIR="$srcdir/target"
   bun install
-  bun run tauri build --no-target
+  bun run tauri build --no-bundle
 }
 
 package() {
