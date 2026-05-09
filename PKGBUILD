@@ -1,5 +1,5 @@
 pkgname=seeker
-pkgver=0.9.4
+pkgver=0.9.2
 pkgrel=1
 pkgdesc="A productivity with a lot of keyboard shortcut"
 arch=('x86_64')
