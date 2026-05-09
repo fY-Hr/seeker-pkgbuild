@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Seeker
+Comment=A productivity with a lot of keyboard shortcut
+Exec=seeker
+Icon=seeker
+Terminal=false
+Categories=Utility;Productivity;
